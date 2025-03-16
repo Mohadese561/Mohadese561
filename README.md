@@ -2,7 +2,7 @@
 - 👀 I’m interested in Solving Partial Differential Equations (PDEs) and Fractional PDEs
 - 🌱 I’m currently learning Python (Advanced).
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mohadeseh.ramezani@alumni.iut.ac.ir
+- 📫 How to reach me: mohadeseh.ramezani@math.iut.ac.ir
 
 <!---
 Mohadese561/Mohadese561 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
